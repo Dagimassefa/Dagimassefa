@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dagimassefa
 - 👀 I’m interested in freelance works 
-- 🌱 I’m currently learning addis ababa university
+- 🌱 I’m currently learning in addis ababa university
 - 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend works
 - 📫 How to reach me kuku.assefa18@gmail.com
 

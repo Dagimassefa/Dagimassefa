@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in addis ababa university
 - 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend works
 - 📫 How to reach me kuku.assefa18@gmail.com
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 Dagimassefa/Dagimassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

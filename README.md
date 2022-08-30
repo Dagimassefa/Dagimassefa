@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dagimassefa
-- 👀 I’m interested in freelance works 
+- 👀 I’m interested in any freelance jobs 
 - 🌱 I’m currently learning in addis ababa university
-- 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend works
+- 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend or backend jobs
 - 📫 How to reach me kuku.assefa18@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---

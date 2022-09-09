@@ -1,5 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagimassefa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagimassefa)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Dagimassefa
 - 👀 I’m interested in any freelance jobs 
 - 🌱 I’m currently learning in addis ababa university

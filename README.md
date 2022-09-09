@@ -1,4 +1,6 @@
-https://giphy.com/gifs/FutureSchool-work-trabajo-bfs-YuKbGGIYMXemhnub3q
+<div align="center">
+  <img src="https://giphy.com/gifs/FutureSchool-work-trabajo-bfs-YuKbGGIYMXemhnub3q" width="600" height="300"/>
+</div>
 - 👋 Hi, I’m @Dagimassefa
 - 👀 I’m interested in any freelance jobs 
 - 🌱 I’m currently learning in addis ababa university

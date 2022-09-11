@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning in addis ababa university
 - 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend or backend jobs
 - 📫 How to reach me kuku.assefa18@gmail.com
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dagimassefa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dagimassefa&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 Dagimassefa/Dagimassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

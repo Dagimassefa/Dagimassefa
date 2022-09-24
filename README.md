@@ -1,11 +1,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagimassefa&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagimassefa&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dagimassefa&theme=dark)](https://git.io/streak-stats)
-<br><br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
+
 - 👋 Hi, I’m @Dagimassefa
 - 👀 I’m interested in any freelance jobs 
 - 🌱 I’m currently learning in addis ababa university

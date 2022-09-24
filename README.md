@@ -1,6 +1,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagimassefa&show_icons=true&theme=prussian)
-<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagimassefa&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dagimassefa&theme=dark)](https://git.io/streak-stats)

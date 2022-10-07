@@ -48,10 +48,10 @@ const COD = {
     <img align="left" alt="Dagim Assefa | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-
- 
   
-<p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a> <br> ![](https://komarev.com/ghpvc/?username=Dagimassefa) </p>
+<p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a> </p>
+  
+  ![](https://komarev.com/ghpvc/?username=Dagimassefa) 
 
 <!---
 Dagimassefa/Dagimassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

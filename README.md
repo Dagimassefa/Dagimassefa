@@ -29,6 +29,8 @@ const COD = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dagimassefa&theme=dark)](https://git.io/streak-stats)
 
+https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=flat
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  

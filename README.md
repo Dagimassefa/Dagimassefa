@@ -3,6 +3,29 @@
   <a href="https://dagimassefa.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+System+Undergraduate;Full+Stack+Software+Developer&center=true&width=500&height=50"></a>
 </p>
 
+- Information System Student at <a href="http://www.aau.edu.et/">Addis Ababa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 👯 I’m looking to collaborate on java, c#, c++ and Web Development related projects.
+- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
+- 💬 Ask me about: anything but my life.
+- 📫 How to reach me: use the links in the footer.
+
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const COD = {
+    pronouns: "Bro" | "Bruh",
+    code: ["Javascript", "HTML", "Python", "Java", "C++", "C#", "Shell Scripting", "PHP", "GIT"],
+    askMeAbout: ["Web Dev", "Tech", "Software Development", "TV Shows", "Gaming"],
+    frontEnd: ["HTML", "CSS3", "Bootstrap", "Javascript"],
+    frontEnd: ["PHP", "C#", "Java", "Python"],
+    databases: ["Mongodb", "MySql", "SQL"],
+    },
+};
+```
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagimassefa&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagimassefa&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 

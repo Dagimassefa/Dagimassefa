@@ -31,8 +31,6 @@ const COD = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
- ![](https://komarev.com/ghpvc/?username=Dagimassefa)
  
 <h4> 📫 How to reach me🤝: <h4>
   </hr>
@@ -51,6 +49,8 @@ const COD = {
   </a>
   <br>
 
+ ![](https://komarev.com/ghpvc/?username=Dagimassefa)
+  
 <p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a></p>
 
 <!---

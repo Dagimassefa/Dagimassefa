@@ -5,8 +5,6 @@
 
 - Information System Student at <a href="http://www.aau.edu.et/">Addis Ababa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 👯 I’m looking to collaborate on java, c#, c++ and Web Development related projects.
-- 🤔 I’m looking for help with LSTMs and Cloud Computing. 
-- 💬 Ask me about: anything but my life.
 - 📫 How to reach me: use the links in the footer.
 
 

@@ -49,9 +49,9 @@ const COD = {
   </a>
   <br>
 
- ![](https://komarev.com/ghpvc/?username=Dagimassefa)
+ 
   
-<p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a></p>
+<p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a> <br> ![](https://komarev.com/ghpvc/?username=Dagimassefa) </p>
 
 <!---
 Dagimassefa/Dagimassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

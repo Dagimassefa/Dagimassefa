@@ -35,13 +35,7 @@ const COD = {
 ![](https://komarev.com/ghpvc/?username=Dagimassefa)
 
 
-- 👋 Hi, I’m @Dagimassefa
-- 👀 I’m interested in any freelance jobs 
-- 🌱 I’m currently learning in addis ababa university
-- 💞️ I’m looking to collaborate on projects that are based on java, c#, c++ or any frontend or backend jobs
-- 📫 How to reach me kuku.assefa18@gmail.com
-
-<h4> Connect with me🤝: <h4>
+<h4> 📫 How to reach me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/dagim-assefa-71089022b">
    <img align="left" alt=" Dagim Assefa | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />

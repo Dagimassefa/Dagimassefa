@@ -31,10 +31,6 @@ const COD = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dagimassefa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![](https://komarev.com/ghpvc/?username=Dagimassefa)
-
-
 <h4> 📫 How to reach me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/dagim-assefa-71089022b">
@@ -51,8 +47,8 @@ const COD = {
     <img align="left" alt="Dagim Assefa | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
-  
-<p align="right" > Created with by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a></p>
+ ![](https://komarev.com/ghpvc/?username=Dagimassefa)
+<p align="right" > Created by <a href="https://dagimassefa.netlify.app/">Dagim Assefa</a></p>
 
 <!---
 Dagimassefa/Dagimassefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

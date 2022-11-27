@@ -14,7 +14,7 @@
 
 ```javascript
 const COD = {
-    pronouns: "Bro" | "Bruh",| "Kuku"
+    pronouns: "Bro" | "Bruh"| "Kuku",
     code: ["Javascript", "HTML", "Python", "Java", "C++", "C#", "Shell Scripting", "PHP", "GIT"],
     askMeAbout: ["Web Dev", "Tech", "Software Development", "TV Shows", "Gaming"],
     frontEnd: ["HTML", "CSS3", "Bootstrap", "Javascript"],

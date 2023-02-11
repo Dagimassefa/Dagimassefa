@@ -18,7 +18,7 @@ const COD = {
     code: ["Javascript", "HTML", "Python", "Java", "C++", "C#", "Shell Scripting", "PHP", "GIT"],
     askMeAbout: ["Web Dev", "Tech", "Software Development", "TV Shows", "Gaming"],
     frontEnd: ["HTML", "CSS3", "Bootstrap", "Javascript"],
-    backEnd: ["Laravel","PHP", "C#", "Java", "Python"],
+    backEnd: ["Laravel" ,"PHP", "C#", "Java", "Python"],
     databases: ["Mongodb", "MySql", "SQL"],
     },
 };

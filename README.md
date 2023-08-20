@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dagim Assefa</h1>
 <p align="center">
-  <a href="https://dagimassefa.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+System+Undergraduate;Full+Stack+Software+Developer&center=true&width=500&height=50"></a>
+  <a href="https://dagimassefa.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer&center=true&width=500&height=50"></a>
 </p>
 
 - Information System Student at <a href="http://www.aau.edu.et/">Addis Ababa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">

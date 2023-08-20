@@ -3,8 +3,9 @@
   <a href="https://dagimassefa.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer&center=true&width=500&height=50"></a>
 </p>
 
-- Information System Student at <a href="http://www.aau.edu.et/">Addis Ababa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 👯 I’m looking to collaborate on java, c#, c++ and Web Development related projects.
+- Graduated from Addis Ababa University 
+- Software Developer at Tria Trading
+- 2nd place winner at the 5th batch of the Innobiz-k Idea Competition
 - 📫 How to reach me: use the links in the footer.
 
 

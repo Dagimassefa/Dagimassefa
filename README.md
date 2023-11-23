@@ -5,7 +5,7 @@
 
 - Graduated from Addis Ababa University 
 - Software Developer at Tria Trading
-- backend developer at BHATTACHARJEE SOLUTION PVT LTD
+- Back-end developer at BHATTACHARJEE SOLUTION PVT LTD
 - 2nd place winner at the 5th batch of the Innobiz-k Idea Competition
 - 📫 How to reach me: use the links in the footer.
 
